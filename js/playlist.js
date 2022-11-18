@@ -30,7 +30,7 @@ export let playlist = [
     // new Sample("Aqui Não! Sua Sirigaita!", "aqui-nao2", "KeyA"),
     // new Sample("Assererrê !", "assererre", "KeyA"),
     new Sample("Senhora! Volta aqui senhora!", "senhora-volta-aqui-senhora", "KeyS"),
-    // new Sample("", "", "KeyD"),
+    new Sample("Despota", "despota", "KeyD"),
     // new Sample("", "", "KeyF", 2),
     // new Sample("", "", "KeyG", 2),
     // new Sample("", "", "KeyH", 2),
@@ -43,7 +43,7 @@ export let playlist = [
     // new Sample("", "", "KeyX", 1, true),
     // new Sample("", "", "KeyC", 0.9, true),
     // new Sample("", "", "KeyV", 1, true),
-    new Sample("Boom Boom Boom Shakalaka", "boom-shakalaka", "KeyB", 1, true),
+    new Sample("Boom Boom Boom Shakalaka", "boom-shakalaka", "KeyB"),
     // new Sample("", "", "KeyN", 1, true),
     // new Sample("", "", "KeyM", 1, true),
   ];
